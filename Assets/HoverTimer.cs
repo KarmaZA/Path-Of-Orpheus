@@ -10,7 +10,6 @@ public class HoverTimer : MonoBehaviour
     public Collider sphere;
     public int waitTime;
 
-
     // Start is called before the first frame update
     void Start()
     {
